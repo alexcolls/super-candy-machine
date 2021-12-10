@@ -1,6 +1,6 @@
 {
   "license": "MIT",
-  "name": "next-candy-machine",
+  "name": "super-candy-machine",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
